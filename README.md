@@ -2,7 +2,7 @@
 A clone of the popular Microsoft Teams App made using Flutter and Agora SDK.
 Made with 💚 by Prakrit Pathak
 
-I made this Project under the Supervision of mentors allotted to us by Microsoft.
+I made this Project under Microsoft's Flagship student engagement program-Microsoft Engage.
 
 Prerequisites:
 You'll  need an in-depth understanding of Flutter and Agora SDK for this project.
