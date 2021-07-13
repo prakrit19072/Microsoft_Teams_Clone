@@ -1,5 +1,5 @@
 # Microsoft_Teams_Clone
-A clone of the popular Microsoft Teams App made using Flutter and Agora SDK
+A clone of the popular Microsoft Teams App made using Flutter and Agora SDK.
 Made with 💚 by Prakrit Pathak
 
 I made this Project under the Supervision of mentors allotted to us by Microsoft.
